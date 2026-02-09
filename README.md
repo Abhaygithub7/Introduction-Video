@@ -26,7 +26,5 @@ I am a Computer Science student at **VIT Bhopal University** with a passion for 
 
 ## 📬 Contact Information
 * **University:** VIT Bhopal University
-* **Email:** info@hitechgp.co.uk *(Public Info)*
 
----
-*Generated for Abhay's GitHub Profile/Project Repository.*
+
